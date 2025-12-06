@@ -1,0 +1,1 @@
+- Exercutar com DOCKER COMPOSE caso precise, localizado dentro da pasta SERVER.
